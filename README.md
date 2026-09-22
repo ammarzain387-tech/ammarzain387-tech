@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- 📧 Email: your-email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/zain-ul-abideen-ammar-665834249)
+- 📧 Email: ammarzain387@gmail.com
