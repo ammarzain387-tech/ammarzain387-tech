@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="YOUR-BANNER-IMAGE-URL" alt="Zain-ul-Abideen Ammar Banner" width="100%" />
-
 # Hi, I'm Zain-ul-Abideen Ammar 👋
 
 ### BS Computer Science Student | Data Analytics | Cybersecurity
