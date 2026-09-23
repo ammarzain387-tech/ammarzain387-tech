@@ -1,56 +1,102 @@
+<div align="center">
+
+<img src="YOUR-BANNER-IMAGE-URL" alt="Zain-ul-Abideen Ammar Banner" width="100%" />
+
 # Hi, I'm Zain-ul-Abideen Ammar 👋
 
-🎓 **BS Computer Science Student @ Virtual University** | 📊 **Data Analytics & 🛡️ Cybersecurity Enthusiast**
+### BS Computer Science Student | Data Analytics | Cybersecurity
+
+<p>
+  <a href="https://linkedin.com/in/zain-ul-abideen-ammar-665834249">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ammarzain387@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing a **Bachelor of Science in Computer Science** at Virtual University of Pakistan.
-- 📊 Passionate about **Data Analytics**, **Relational Database Design (SQL)**, and **Interactive Dashboards** (Tableau & Excel).
-- 🛡️ Actively developing skills in **Cybersecurity Defense**, **Threat Hunting**, and **Log Analysis** (Splunk SPL & Risk-Based Alerting).
-- 💻 Solid core foundation in **C++ Object-Oriented Programming** and **Digital Logic Design**.
-- ⚡ Strong practical background in **Electrical Systems & Engineering (DAE)**.
-
----
-
-### 🛠️ Technical Stack & Tools
-
-- **Languages & Databases:** C++, SQL, Relational DB Design
-- **Data Analytics & Visualization:** Tableau, Microsoft Excel (Data Wrangling, Pivot Tables, Formulas)
-- **Cybersecurity & Networking:** Threat Analysis, Splunk SPL Basics, OSI Model, Network Data Communication
-- **Tools & Utilities:** Git, GitHub, VS Code
+- 🎓 BS Computer Science student at the Virtual University of Pakistan.
+- 📊 Passionate about data analytics, SQL, and interactive dashboards.
+- 🛡️ Learning cybersecurity defense, threat hunting, and log analysis.
+- 💻 Building a strong foundation in C++ object-oriented programming.
+- ⚡ Experienced in electrical systems and engineering.
 
 ---
 
-### 📜 Certifications (Cisco Networking Academy)
+## 🛠️ Technologies and Tools
 
-- 🛡️ **Cybersecurity Defense Analyst**
-- 📊 **Data Analytics Essentials**
-- 💻 **C++ Essentials 1**
-- 📈 **Introduction to Data**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,mysql,git,github,vscode" alt="Technology Icons" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+</div>
 
 ---
 
-### 💡 Core Focus Areas
+## 📚 Focus Areas
 
-- 📈 **Data Analytics & SQL:** Building relational database schemas, executing complex SQL queries, and creating interactive visual analytics on Tableau.
-- 🛡️ **Cybersecurity Operations:** Analyzing network logs, threat detection workflows, and security frameworks.
-- ⚙️ **Software & Logic Development:** Writing modular C++ OOP code and structured problem-solving.
+### 📈 Data Analytics
+
+- Relational database schemas
+- Complex SQL queries
+- Data cleaning and wrangling
+- Tableau dashboards
+- Excel pivot tables and formulas
+
+### 🛡️ Cybersecurity
+
+- Network log analysis
+- Threat detection workflows
+- Threat hunting fundamentals
+- Splunk SPL
+- Risk-based alerting
+- Security frameworks
+
+### ⚙️ Software Development
+
+- C++ programming
+- Object-oriented programming
+- Modular software design
+- Problem-solving
+- Digital logic design
 
 ---
 
-### 📊 GitHub Stats
+## 🏅 Certifications
+
+- 🛡️ Cybersecurity Defense Analyst
+- 📊 Data Analytics Essentials
+- 💻 C++ Essentials 1
+- 📈 Introduction to Data
+
+_All certifications are from Cisco Networking Academy._
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarzain387-tech&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarzain387-tech&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarzain387-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarzain387-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+<div align="center">
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/zain-ul-abideen-ammar-665834249)
-- 📧 **Email:** ammarzain387@gmail.com
--
+### Thanks for visiting my profile! ⭐
+
+</div>
